@@ -1,0 +1,14 @@
+.nav-link:hover{
+  background-color: gray;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#products {
+  height: 10vh;
+  overflow-y: auto;
+  padding: 2px
+}
